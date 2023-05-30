@@ -23,7 +23,7 @@ namespace entrega_cupones.Formularios.Tesoreria
       Cbx_Imputacion.SelectedIndex = 0;
       Cbx_MedioDePago.SelectedIndex = 0;
       Cbx_TipoComprobante.SelectedIndex = 0;
-
+      // Prueba de GitHub
     }
 
     private void Btn_Salir_Click(object sender, EventArgs e)
